@@ -1,0 +1,9 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Caching
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
